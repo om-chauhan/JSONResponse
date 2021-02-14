@@ -8,7 +8,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Andhra Pradesh",
                 "Sport": "Kabaddi",
@@ -20,23 +20,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Amaravati)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -48,7 +43,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Arunachal Pradesh",
                 "Sport": "Kabaddi",
@@ -60,23 +55,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Itanagar)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -88,7 +78,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Assam",
                 "Sport": "Kabaddi",
@@ -100,23 +90,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Dispur)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -128,7 +113,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Bihar",
                 "Sport": "Kabaddi",
@@ -140,23 +125,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Patna)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -168,7 +148,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Chhattisgarh",
                 "Sport": "Kabaddi",
@@ -180,23 +160,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Raipur)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -208,7 +183,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Goa",
                 "Sport": "Kabaddi",
@@ -220,23 +195,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Panaji)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -248,7 +218,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Gujarat",
                 "Sport": "Kabaddi",
@@ -260,23 +230,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Gandhinagar)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -288,7 +253,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Haryana",
                 "Sport": "Kabaddi",
@@ -300,23 +265,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Chandigarh)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -328,7 +288,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Himachal Pradesh",
                 "Sport": "Kabaddi",
@@ -340,23 +300,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Shimla)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -368,7 +323,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Jharkhand",
                 "Sport": "Kabaddi",
@@ -380,23 +335,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Ranchi)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -408,7 +358,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Karnataka",
                 "Sport": "Kabaddi",
@@ -420,23 +370,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Bangalore)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -448,7 +393,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Kerala",
                 "Sport": "Kabaddi",
@@ -460,23 +405,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Thiruvananthapuram)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -488,7 +428,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Madhya Pradesh",
                 "Sport": "Kabaddi",
@@ -500,23 +440,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Bhopal)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -528,7 +463,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Maharashtra Pradesh",
                 "Sport": "Kabaddi",
@@ -540,23 +475,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Mumbai)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -568,7 +498,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Manipur",
                 "Sport": "Kabaddi",
@@ -580,23 +510,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Imphal)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -608,7 +533,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Meghalaya",
                 "Sport": "Kabaddi",
@@ -620,23 +545,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Shillong)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -648,7 +568,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Mizoram",
                 "Sport": "Kabaddi",
@@ -660,23 +580,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Aizawl)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -688,7 +603,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Nagaland",
                 "Sport": "Kabaddi",
@@ -700,23 +615,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Kohima)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -728,7 +638,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Odisha",
                 "Sport": "Kabaddi",
@@ -740,23 +650,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Bhubaneshwar)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -768,7 +673,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Punjab",
                 "Sport": "Kabaddi",
@@ -780,23 +685,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Chandigarh)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -808,7 +708,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Rajasthan",
                 "Sport": "Kabaddi",
@@ -820,23 +720,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Jaipur)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -848,7 +743,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Sikkim",
                 "Sport": "Kabaddi",
@@ -860,23 +755,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Gangtok)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -888,7 +778,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Tamil Nadu",
                 "Sport": "Kabaddi",
@@ -900,23 +790,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Chennai)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -928,7 +813,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Telangana",
                 "Sport": "Kabaddi",
@@ -940,23 +825,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Hyderabad)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -968,7 +848,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Tripura",
                 "Sport": "Kabaddi",
@@ -980,23 +860,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Agartala)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -1008,7 +883,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Uttarakhand",
                 "Sport": "Kabaddi",
@@ -1020,23 +895,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Dehradun)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -1048,7 +918,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "Uttar Pradesh",
                 "Sport": "Kabaddi",
@@ -1060,23 +930,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Lucknow)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         },
         {
@@ -1088,7 +953,7 @@
                 "Bird": "Parrot",
                 "Area": {
                         "Total": "162,975 km2",
-                        "AreaRank": "7th"
+                        "Area_Rank": "7th"
                 },
                 "State": "West Bengal",
                 "Sport": "Kabaddi",
@@ -1100,23 +965,18 @@
                 "Website": "http://www.ap.gov.in/",
                 "Capital": "(Kolkata)",
                 "Governor": "John",
-                "HighCourt": "High Court of Andhra Pradesh",
-                "Population": {
-                        "Rank": "10th",
-                        "Total": "49,386,799",
-                        "Density": "308/km2"
-                },
+                "High_Court": "High Court of Andhra Pradesh",
                 "Legislature": "New York",
-                "LanguageTwo": "Telugu",
-                "LanguageOne": "Hindi",
-                "LanguageFour": "Tamil",
-                "LanguageFive": "Marathi",
-                "ChiefMinister": 30,
-                "LanguageThree": "Urdu",
-                "FormationDate": "1 Nov. 1956",
-                "ParliamentaryConstituencies": {
-                        "Lok Sabha": "25 seats",
-                        "Rajya Sabha": "11 seats"
+                "Language_Two": "Telugu",
+                "Language_One": "Hindi",
+                "Language_Four": "Tamil",
+                "Language_Five": "Marathi",
+                "Chief_Minister": 30,
+                "Language_Three": "Urdu",
+                "Formation_Date": "1 Nov. 1956",
+                "Parliamentary_Constituencies": {
+                        "Lok_Sabha": "25 seats",
+                        "Rajya_Sabha": "11 seats"
                 }
         }
 ]
