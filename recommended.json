@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+        "Title": "History",
+        "Descriptions": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry. "
+    },
+    {
+        "id": 2,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+        "Title": "Culture",
+        "Descriptions": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry. "
+    },
+    {
+        "id": 3,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+        "Title": "Government",
+        "Descriptions": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry. "
+    },
+    {
+        "id": 4,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+        "Title": "Language",
+        "Descriptions": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry. "
+    },
+    {
+        "id": 5,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+        "Title": "Geography",
+        "Descriptions": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry. "
+    }
+]
