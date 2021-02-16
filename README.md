@@ -16,3 +16,4 @@
 | 12  | Recommended Tile | [Click](v1/recommended_tile.json) |
 | 13  | Religion         | [Click](v1/religion.json)         |
 | 14  | State            | [Click](v1/state.json)            |
+|15   | Privacy Policy   | [Click](Privacy-Policy.html)      |
