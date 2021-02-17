@@ -1,122 +1,93 @@
 [
     {
         "id": 1,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+        "img": "https://om-chauhan.github.io/JSONResponse/images/history.jpg",
         "Title": "History",
+        "img_credit": "Photo by Pixabay from Pexels",
         "Descriptions": {
-            "Topic_1":"",
-            "Paragraph_1":"India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya), is a country in South Asia. It is the second-most populous country, the seventh-largest country by land area, and the most populous democracy in the world. \n\nBounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia.",
-            "Topic_2":"",
-            "Paragraph_2":"Modern humans arrived on the Indian subcontinent from Africa no later than 55,000 years ago. Their long occupation, initially in varying forms of isolation as hunter-gatherers, has made the region highly diverse, second only to Africa in human genetic diversity. \n\nSettled life emerged on the subcontinent in the western margins of the Indus river basin 9,000 years ago, evolving gradually into the Indus Valley Civilisation of the third millennium BCE. By 1200 BCE, an archaic form of Sanskrit, an Indo-European language, had diffused into India from the northwest, unfolding as the language of the Rigveda, and recording the dawning of Hinduism in India.",
-            "Topic_3":"",
-            "Paragraph_3":"The Dravidian languages of India were supplanted in the northern and western regions. By 400 BCE, stratification and exclusion by caste had emerged within Hinduism, and Buddhism and Jainism had arisen, proclaiming social orders unlinked to heredity. \n\nEarly political consolidations gave rise to the loose-knit Maurya and Gupta Empires based in the Ganges Basin. Their collective era was suffused with wide-ranging creativity, but also marked by the declining status of women, and the incorporation of untouchability into an organised system of belief. In South India, the Middle kingdoms exported Dravidian-languages scripts and religious cultures to the kingdoms of Southeast Asia.\n\nIn the early medieval era, Christianity, Islam, Judaism, and Zoroastrianism put down roots on India's southern and western coasts. Muslim armies from Central Asia intermittently overran India's northern plains, eventually establishing the Delhi Sultanate, and drawing northern India into the cosmopolitan networks of medieval Islam. ",
-            "Topic_4":"",
-            "Paragraph_4":"In the 15th century, the Vijayanagara Empire created a long-lasting composite Hindu culture in south India. In the Punjab, Sikhism emerged, rejecting institutionalised religion. The Mughal Empire, in 1526, ushered in two centuries of relative peace, leaving a legacy of luminous architecture.\n\nGradually expanding rule of the British East India Company followed, turning India into a colonial economy, but also consolidating its sovereignty. British Crown rule began in 1858. The rights promised to Indians were granted slowly, but technological changes were introduced, and ideas of education, modernity and the public life took root. \n\nA pioneering and influential nationalist movement emerged, which was noted for nonviolent resistance and became the major factor in ending British rule. In 1947 the British Indian Empire was partitioned into two independent dominions, a Hindu-majority Dominion of India and a Muslim-majority Dominion of Pakistan, amid large-scale loss of life and an unprecedented migration."
+            "Desc_credit": "https://en.wikipedia.org/wiki/India",
+            "Paragraph_1": "India (Hindi: Bhārat), officially the Republic of India (Hindi: Bhārat Gaṇarājya), is a country in South Asia. It is the second-most populous country, the seventh-largest country by land area, and the most populous democracy in the world. \n\nBounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand and Indonesia.\n\nModern humans arrived on the Indian subcontinent from Africa no later than 55,000 years ago. Their long occupation, initially in varying forms of isolation as hunter-gatherers, has made the region highly diverse, second only to Africa in human genetic diversity. \n\nSettled life emerged on the subcontinent in the western margins of the Indus river basin 9,000 years ago, evolving gradually into the Indus Valley Civilisation of the third millennium BCE. By 1200 BCE, an archaic form of Sanskrit, an Indo-European language, had diffused into India from the northwest, unfolding as the language of the Rigveda, and recording the dawning of Hinduism in India.\n\nThe Dravidian languages of India were supplanted in the northern and western regions. By 400 BCE, stratification and exclusion by caste had emerged within Hinduism, and Buddhism and Jainism had arisen, proclaiming social orders unlinked to heredity. \n\nEarly political consolidations gave rise to the loose-knit Maurya and Gupta Empires based in the Ganges Basin. Their collective era was suffused with wide-ranging creativity, but also marked by the declining status of women, and the incorporation of untouchability into an organised system of belief. In South India, the Middle kingdoms exported Dravidian-languages scripts and religious cultures to the kingdoms of Southeast Asia.\n\nIn the early medieval era, Christianity, Islam, Judaism, and Zoroastrianism put down roots on India's southern and western coasts. Muslim armies from Central Asia intermittently overran India's northern plains, eventually establishing the Delhi Sultanate, and drawing northern India into the cosmopolitan networks of medieval Islam.\n\nIn the 15th century, the Vijayanagara Empire created a long-lasting composite Hindu culture in south India. In the Punjab, Sikhism emerged, rejecting institutionalised religion. The Mughal Empire, in 1526, ushered in two centuries of relative peace, leaving a legacy of luminous architecture.\n\nGradually expanding rule of the British East India Company followed, turning India into a colonial economy, but also consolidating its sovereignty. British Crown rule began in 1858. The rights promised to Indians were granted slowly, but technological changes were introduced, and ideas of education, modernity and the public life took root. \n\nA pioneering and influential nationalist movement emerged, which was noted for nonviolent resistance and became the major factor in ending British rule. In 1947 the British Indian Empire was partitioned into two independent dominions, a Hindu-majority Dominion of India and a Muslim-majority Dominion of Pakistan, amid large-scale loss of life and an unprecedented migration."
         }
     },
     {
         "id": 2,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+        "img": "https://om-chauhan.github.io/JSONResponse/images/culture.jpg",
         "Title": "Culture",
-          "Descriptions": {
-            "Topic_1":"",
-            "Paragraph_1":"",
-            "Topic_2":"",
-            "Paragraph_2":"",
-            "Topic_3":"",
-            "Paragraph_3":"",
-            "Topic_4":"",
-            "Paragraph_4":""
+        "img_credit": "Photo by Manjeet Singh Yadav from Pexels",
+        "Descriptions": {
+            "Desc_credit": "https://en.wikipedia.org/wiki/India",
+            "Paragraph_1": "Indian cultural history spans more than 4,500 years. During the Vedic period (c. 1700 – c. 500 BCE), the foundations of Hindu philosophy, mythology, theology and literature were laid, and many beliefs and practices which still exist today, such as dhárma, kárma, yóga, and mokṣa, were established. India is notable for its religious diversity, with Hinduism, Buddhism, Sikhism, Islam, Christianity, and Jainism among the nation's major religions. The predominant religion, Hinduism, has been shaped by various historical schools of thought, including those of the Upanishads, the Yoga Sutras, the Bhakti movement, and by Buddhist philosophy."
         }
     },
     {
         "id": 3,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+        "img": "https://om-chauhan.github.io/JSONResponse/images/government.jpg",
         "Title": "Government",
-          "Descriptions": {
-            "Topic_1":"",
-            "Paragraph_1":"",
-            "Topic_2":"",
-            "Paragraph_2":"",
-            "Topic_3":"",
-            "Paragraph_3":"",
-            "Topic_4":"",
-            "Paragraph_4":""
+        "img_credit": "Photo by Alok Uniyal from Pexels",
+        "Descriptions": {
+            "Desc_credit": "https://en.wikipedia.org/wiki/India",
+            "Paragraph_1": "India is a federation with a parliamentary system governed under the Constitution of India—the country's supreme legal document. It is a constitutional republic and representative democracy, in which majority rule is tempered by minority rights protected by law. Federalism in India defines the power distribution between the union and the states.\n\nThe Constitution of India, which came into effect on 26 January 1950, originally stated India to be a sovereign, democratic republic; this characterisation was amended in 1971 to a sovereign, socialist, secular, democratic republic. India's form of government, traditionally described as quasi-federal with a strong centre and weak states, has grown increasingly federal since the late 1990s as a result of political, economic, and social changes.",
+            "Executive":{
+                "Title":"Executive",
+                "Desc":"The President of India is the ceremonial head of state, who is elected indirectly for a five-year term by an electoral college comprising members of national and state legislatures. The Prime Minister of India is the head of government and exercises most executive power.\nAppointed by the president, the prime minister is by convention supported by the party or political alliance having a majority of seats in the lower house of parliament. "
+            },
+            "Legislature":{
+                "Title":"Legislature",
+                "Desc":"The President of India is the ceremonial head of state, who is elected indirectly for a five-year term by an electoral college comprising members of national and state legislatures. The Prime Minister of India is the head of government and exercises most executive power. Appointed by the president, the prime minister is by convention supported by the party or political alliance having a majority of seats in the lower house of parliament. \n\nThe executive of the Indian government consists of the president, the vice president, and the Union Council of Ministers—with the cabinet being its executive committee—headed by the prime minister. Any minister holding a portfolio must be a member of one of the houses of parliament. In the Indian parliamentary system, the executive is subordinate to the legislature; the prime minister and their council are directly responsible to the lower house of the parliament. Civil servants act as permanent executives and all decisions of the executive are implemented by them."
+            },  "Judiciary":{
+                "Title":"Judiciary",
+                "Desc":"India has a three-tier unitary independent judiciary comprising the supreme court, headed by the Chief Justice of India, 25 high courts, and a large number of trial courts. The supreme court has original jurisdiction over cases involving fundamental rights and over disputes between states and the centre and has appellate jurisdiction over the high courts. It has the power to both strike down union or state laws which contravene the constitution, and invalidate any government action it deems unconstitutional."
+            }
         }
     },
     {
         "id": 4,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+        "img": "https://om-chauhan.github.io/JSONResponse/images/language.jpg",
         "Title": "Language",
-          "Descriptions": {
-            "Topic_1":"",
-            "Paragraph_1":"",
-            "Topic_2":"",
-            "Paragraph_2":"",
-            "Topic_3":"",
-            "Paragraph_3":"",
-            "Topic_4":"",
-            "Paragraph_4":""
+        "img_credit": "Photo by Pixabay from Pexels",
+        "Descriptions": {
+            "Desc_credit": "https://en.wikipedia.org/wiki/India",
+            "Paragraph_1": ""
         }
     },
     {
         "id": 5,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+        "img": "https://om-chauhan.github.io/JSONResponse/images/geography.jpg",
         "Title": "Geography",
-         "Descriptions": {
-            "Topic_1":"",
-            "Paragraph_1":"",
-            "Topic_2":"",
-            "Paragraph_2":"",
-            "Topic_3":"",
-            "Paragraph_3":"",
-            "Topic_4":"",
-            "Paragraph_4":""
+        "img_credit": "Photo by Artem Beliaikin from Pexels",
+        "Descriptions": {
+            "Desc_credit": "https://en.wikipedia.org/wiki/India",
+            "Paragraph_1": ""
         }
     },
     {
         "id": 6,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+        "img": "https://om-chauhan.github.io/JSONResponse/images/economy.jpg",
         "Title": "Economy",
-         "Descriptions": {
-            "Topic_1":"",
-            "Paragraph_1":"",
-            "Topic_2":"",
-            "Paragraph_2":"",
-            "Topic_3":"",
-            "Paragraph_3":"",
-            "Topic_4":"",
-            "Paragraph_4":""
+        "img_credit": "Photo by Habib from Pexels",
+        "Descriptions": {
+            "Desc_credit": "https://en.wikipedia.org/wiki/India",
+            "Paragraph_1": ""
         }
     },
     {
         "id": 7,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+        "img": "https://om-chauhan.github.io/JSONResponse/images/biodiversity.jpg",
         "Title": "Biodiversity",
-          "Descriptions": {
-            "Topic_1":"",
-            "Paragraph_1":"",
-            "Topic_2":"",
-            "Paragraph_2":"",
-            "Topic_3":"",
-            "Paragraph_3":"",
-            "Topic_4":"",
-            "Paragraph_4":""
+        "img_credit": "Photo by Quentin Pelletier from Pexels",
+        "Descriptions": {
+            "Desc_credit": "https://en.wikipedia.org/wiki/India",
+            "Paragraph_1": ""
         }
     },
     {
         "id": 8,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
+        "img": "https://om-chauhan.github.io/JSONResponse/images/politics.jpg",
         "Title": "Politics",
-         "Descriptions": {
-            "Topic_1":"",
-            "Paragraph_1":"",
-            "Topic_2":"",
-            "Paragraph_2":"",
-            "Topic_3":"",
-            "Paragraph_3":"",
-            "Topic_4":"",
-            "Paragraph_4":""
+        "img_credit": "Photo by Element5 Digital from Pexels",
+        "Descriptions": {
+            "Desc_credit": "https://en.wikipedia.org/wiki/India",
+            "Paragraph_1": ""
         }
     }
 ]
