@@ -1,52 +1,112 @@
 [
     {
         "id": 1,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
-        "Title": "Andhra Pradesh",
+        "img": "https://om-chauhan.github.io/JSONResponse/images/popular/taj-mahal.jpg",
+        "Title": "The Taj Mahal",
         "Location": {
-            "Latitude": 19.22299,
-            "Longitude": 73.089863
+            "name": "Agra",
+            "state": "Uttar Pradesh"
         },
-        "Descriptions": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry. "
+        "img_credit": "Photo by Sudipta Mondal from Pexels",
+        "Descriptions": "Perhaps India's most recognizable building, the Taj Mahal is also the world's most famous testimony to the power of love. Named after Mumtaz Mahal, the favorite wife of Emperor Shah Jahan, this most beautiful of mausoleums was begun upon her death in 1631 and took 20,000 workmen until 1648 to complete.\n\nIncorporating many elements of Islamic design including arches, minarets, an onion-shaped dome, and black calligraphy inlaid around the entrance, the Taj Mahal is largely constructed of white marble decorated with delicate inlaid floral patterns and precious and semi-precious stones such as jade, lapis lazuli, diamonds, and mother of pearl.\n\nThe best time to visit is either at dawn or dusk when the atmosphere is brilliantly altered by the change in lighting. If possible, try to catch a view of the Taj Mahal's reflection from the far bank of the Yamuna River-it makes for a memorable (and safe) selfie."
     },
     {
         "id": 2,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
-        "Title": "Andhra Pradesh",
+        "img": "https://om-chauhan.github.io/JSONResponse/images/popular/the-holy-city.jpg",
+        "Title": "The Holy City",
         "Location": {
-            "Latitude": 19.22299,
-            "Longitude": 73.089863
+            "name": "Varanasi",
+            "state": "Uttar Pradesh"
         },
-        "Descriptions": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry. "
+        "img_credit": "Photo by Cosmic snap from Pixahive",
+        "Descriptions": "A major pilgrimage center for Hindus, the holy city of Varanasi has long been associated with the mighty Ganges River, one of the faith's most important religious symbols. Dating back to the 8th century BC, Varanasi is one of the oldest still inhabited cities in the world.\nIt offers many reasons to visit, not least of them the chance to explore the Old Quarter adjacent to the Ganges where you'll find the Kashi Vishwanath Temple, built in 1780 (the New Vishwanath Temple with its seven separate temples is also of interest).\nBathing in the Ganges is of great importance to Hindus, and numerous locations known as ghats feature stairways leading to the water where the faithful bathe before prayers.\n\nAll told, Varanasi boasts more than 100 ghats, the largest being Dasashvamedh Ghat and Assi Ghat (the latter, at the confluence of the Ganges and Asi rivers, is considered particularly holy). \nAlso worth seeing is Banaras Hindu University, established in 1917 and noted for its massive library with more than a million books, and the superb Bharat Kala Bhavan museum featuring fine collections of miniature paintings, sculptures, palm-leaf manuscripts, and local history exhibits."
     },
     {
         "id": 3,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
-        "Title": "Andhra Pradesh",
+        "img": "https://om-chauhan.github.io/JSONResponse/images/popular/the-golden-temple.jpg",
+        "Title": "The Golden Temple",
         "Location": {
-            "Latitude": 19.22299,
-            "Longitude": 73.089863
+            "name": "Amritsar",
+            "state": "Punjab"
         },
-        "Descriptions": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry. "
+        "img_credit": "Photo by Marsmux from wikimedia",
+        "Descriptions": "Founded in 1577 by Ram Das, Amritsar is an important hub of Sikh history and culture. The main attraction here is Harmandir Sahib, opened in 1604 and still often referred to as the Golden Temple for its beautiful gold decoration. \nThe holiest of India's many Sikh shrines (it also attracts many Hindus and people of other faiths), the temple was built in a blend of Hindu and Islamic styles, its lower marble section featuring such flourishes as ornate inlaid floral and animal motifs, while the large golden dome represents a lotus flower, a symbol of purity to Sikhs.\n\nIn addition to its splendid design, visitors are equally impressed with the temple's spiritual atmosphere, an effect enhanced by the prayers continuously chanted from the Sikh holy book and broadcast throughout the complex. \nPart of the overall experience-and visitors are welcome to participate-is the chance to enjoy one of the 50,000 free meals the attraction serves up to visitors each and every day."
     },
     {
         "id": 4,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
-        "Title": "Andhra Pradesh",
+        "img": "https://om-chauhan.github.io/JSONResponse/images/popular/the-golden-city.jpg",
+        "Title": "The Golden City",
         "Location": {
-            "Latitude": 19.22299,
-            "Longitude": 73.089863
+            "name": "Jaisalmer",
+            "state": "Rajasthan"
         },
-        "Descriptions": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry. "
+        "img_credit": "Photo by vil.sandi from Flickr",
+        "Descriptions": "So named for the yellow sandstone used in most of its buildings, the Golden City of Jaisalmer is an oasis of splendid old architecture that rises from the sand dunes of the Thar Desert. \nOnce a strategic outpost, today the city is filled with splendid old mansions, magnificent gateways, and the massive Jaisalmer Fort-also known as the Golden Fort-a daunting 12th-century structure that rises high above the town.\n\nIn addition to its palaces, temples, and fine old homes, the fortress boasts 99 bastions along with massive gates leading to its main courtyard where you'll find the seven-story-tall Maharaja's Palace. \nStarted in the early 1500s and added to by successive rulers right up until the 19th century, the palace offers sections open to the public including areas beautifully decorated with tiles from Italy and China, and intricately carved stone doors, as well as a number of Jain temples dating from the 12th to 16th centuries, each decorated with fine marble and sandstone images, palm-leaf manuscripts, and brightly painted ceilings.\nBe sure to also check out the well-preserved 1,000-year-old library, Gyan Bhandar, with its many 16th-century manuscripts and antiquities."
     },
     {
         "id": 5,
-        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gateway_of_india%27s_look_in_evening.jpg",
-        "Title": "Andhra Pradesh",
+        "img": "https://om-chauhan.github.io/JSONResponse/images/popular/the-red-fort.jpg",
+        "Title": "The Red Fort",
         "Location": {
-            "Latitude": 19.22299,
-            "Longitude": 73.089863
+            "name": "Old Delhi",
+            "state": "Delhi"
         },
-        "Descriptions": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry. "
+        "img_credit": "Photo by Pankajksharma92 from wikimedia",
+        "Descriptions": "Built by Shah Jahan in 1648 as the seat of Mughal power-a role it maintained until 1857-the magnificent crescent-shaped Red Fort in New Delhi, named after the stunning red sandstone used in its construction, covers a vast area of more than two square kilometers, all of it surrounded by a large moat. \nHighlights include its two largest gates: the impressive Lahore Gate (the fort's main entrance) and the elaborately decorated Delhi Gate, once used by the emperor for ceremonial processions.\n\nA fun part of a visit is exploring Chatta Chowk, a 17th-century covered bazaar selling everything from jewelry to silk garments, as well as souvenirs and food items. While you can explore the fort yourself, guided tours are offered and provide a \nfascinating insight into the life and times of the Shah, including a peek into the stunning white marble Hall of Public Audiences (Diwan-i-Am) where he received his subjects."
+    },
+    {
+        "id": 6,
+        "img": "https://om-chauhan.github.io/JSONResponse/images/popular/the-gateway-of-india.jpg",
+        "Title": "The Gateway of India",
+        "Location": {
+            "name": "Mumbai",
+            "state": "Maharashtra"
+        },
+        "img_credit": "Photo by Akshay Bharath from wikimedia",
+        "Descriptions": "Standing an impressive 26 meters tall and overlooking the Arabian Sea, the iconic Gateway of India is a must-see when in Mumbai. \nBuilt to commemorate the arrival of King George V and his wife Queen Mary in 1911, this stunning piece of architecture was opened with much pomp and ceremony in 1924 and was, for a while, the tallest structure in the city.\n\nConstructed entirely of yellow basalt and concrete and notable for its Indo-Saracenic design, the Gateway of India was also the scene of a rather less jubilant procession of British soldiers in 1948 when India gained its independence. \nThese days, the huge archway provides a stunning backdrop that is as popular among locals as it is tourists."
+    },
+    {
+        "id": 7,
+        "img": "https://om-chauhan.github.io/JSONResponse/images/popular/mecca-masjid.jpg",
+        "Title": "Mecca Masjid",
+        "Location": {
+            "name": "Hyderabad",
+            "state": "Telangana"
+        },
+        "img_credit": "Photo by Suraj Garg from wikimedia",
+        "Descriptions": "Construction of Hyderabad's Mecca Masjid, one of the world's largest mosques-and one of the oldest in India-began in 1614 during Mohammed Quli Qutub Shah's reign and took almost 80 years to complete. \nLarge enough to accommodate 10,000 worshipers, this beautiful mosque's 15 enormous arches and pillars were each wrought from single slabs of black granite dragged to the site by huge cattle trains reputedly consisting of up to 1,400 bulls.\n\nTaking its name from the bricks above the central gate that were brought here from Mecca, this impressive complex features highlights such as its main gateway, huge plaza, a large manmade pond, and a room that houses the hair of Prophet Mohammed. \nOther notable features include inscriptions from the Quran above many of the arches and doors, the exquisite roof of the main hall, the cornices around the entire mosque structure, and the floral motifs and friezes over the arches."
+    },
+    {
+        "id": 8,
+        "img": "https://om-chauhan.github.io/JSONResponse/images/popular/amer-fort.jpg",
+        "Title": "Amer Fort",
+        "Location": {
+            "name": "Jaipur",
+            "state": "Rajasthan"
+        },
+        "img_credit": "Photo by Kuldeepsingh Mahawar from wikimedia",
+        "Descriptions": "Amer Fort was built as a fortified palace in 1592 by Maharaja Man Singh I and has long served as the capital of Jaipur. Carved high up into the hillside, the fort is accessible on foot via a steep climb or by shuttle rides from the town below (better still, let an elephant do the work). \nHighlights include Jaleb Chowk, the first courtyard, with its many decorated elephants, and the Shila Devi Temple, dedicated to the goddess of war. Also of note is the adjoining Hall of Public Audience (Diwan-i-Am) with its finely decorated walls and terraces frequented by monkeys.\n\nOther highlights include Sukh Niwas (the Hall of Pleasure) with its many flowerbeds and a channel once used to carry cooling water, and the Temple of Victory (Jai Mandir), notable for its many decorative panels, colorful ceilings, and excellent views over the palace and the lake below.\n\nJust above Amer Fort is Jaigarh Fort, built in 1726 by Jai Singh and featuring tall lookout towers, formidable walls, and the world's largest wheeled cannon. Be sure to also spend time wandering the walled Old City of Jaipur with its three fully restored gates and splendid bazaars, as well as the delightful City Palace, a massive complex of courtyards, gardens, and buildings."
+    },
+    {
+        "id": 9,
+        "img": "https://om-chauhan.github.io/JSONResponse/images/popular/periyar-national-park.jpg",
+        "Title": "Periyar National Park",
+        "Location": {
+            "name": "Madurai",
+            "state": "Kerala"
+        },
+        "img_credit": "Photo by Anand2202 from wikimedia",
+        "Descriptions": "One of South India's most popular tourist attractions, Periyar National Park and Wildlife Sanctuary is centered around a lake built by British engineers in 1895 for irrigation and to provide water to the city of Madurai. \nEstablished in 1934, this beautiful park is home to numerous species of mammals, including a large free-roaming Indian elephant population, wild boar, otters, the lion-tailed macaque, and more than 20 Bengal tigers. Bird watching is a popular activity with frequent sightings of species such as darters, storks, kingfishers, hornbills, and racket-tailed drongos, along with many interesting varieties of butterflies.\n\nThe best ways to enjoy the park's splendid mountain scenery are to take a lake cruise or guided jungle walk, the latter allowing visitors a chance to come face to face with elephant herds and observe other wildlife from watchtowers and viewing platforms."
+    },
+    {
+        "id": 10,
+        "img": "https://om-chauhan.github.io/JSONResponse/images/popular/the-ellora-caves.jpg",
+        "Title": "The Ellora Caves",
+        "Location": {
+            "name": "Aurangabad",
+            "state": "Maharashtra"
+        },
+        "img_credit": "Photo by Ashwin Nair from wikimedia",
+        "Descriptions": "Built by Shah Jahan in 1648 as the seat of Mughal power-a role it maintained until 1857-the magnificent crescent-shaped Red Fort in New Delhi, named after the stunning red sandstone used in its construction, covers a vast area of more than two square kilometers, all of it surrounded by a large moat. \nHighlights include its two largest gates: the impressive Lahore Gate (the fort's main entrance) and the elaborately decorated Delhi Gate, once used by the emperor for ceremonial processions.\n\nA fun part of a visit is exploring Chatta Chowk, a 17th-century covered bazaar selling everything from jewelry to silk garments, as well as souvenirs and food items. While you can explore the fort yourself, guided tours are offered and provide a \nfascinating insight into the life and times of the Shah, including a peek into the stunning white marble Hall of Public Audiences (Diwan-i-Am) where he received his subjects."
     }
 ]
