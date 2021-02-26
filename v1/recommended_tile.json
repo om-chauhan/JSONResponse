@@ -3,6 +3,7 @@
         "id": 1,
         "img": "https://om-chauhan.github.io/JSONResponse/images/history.jpg",
         "Title": "History",
+        "Source": "https://en.wikipedia.org/wiki/India",
         "img_credit": "Photo by Pixabay from Pexels",
         "Descriptions": {
             "Desc_credit": "https://en.wikipedia.org/wiki/India",
@@ -13,6 +14,7 @@
         "id": 2,
         "img": "https://om-chauhan.github.io/JSONResponse/images/culture.jpg",
         "Title": "Culture",
+        "Source": "https://en.wikipedia.org/wiki/India",
         "img_credit": "Photo by Manjeet Singh Yadav from Pexels",
         "Descriptions": {
             "Desc_credit": "https://en.wikipedia.org/wiki/India",
@@ -23,14 +25,11 @@
         "id": 3,
         "img": "https://om-chauhan.github.io/JSONResponse/images/government.jpg",
         "Title": "Government",
+        "Source": "https://en.wikipedia.org/wiki/India",
         "img_credit": "Photo by Alok Uniyal from Pexels",
         "Descriptions": {
             "Desc_credit": "https://en.wikipedia.org/wiki/India",
             "Paragraph_1": "India is a federation with a parliamentary system governed under the Constitution of India—the country's supreme legal document. It is a constitutional republic and representative democracy, in which majority rule is tempered by minority rights protected by law. Federalism in India defines the power distribution between the union and the states.\n\nThe Constitution of India, which came into effect on 26 January 1950, originally stated India to be a sovereign, democratic republic; this characterisation was amended in 1971 to a sovereign, socialist, secular, democratic republic. \nIndia's form of government, traditionally described as quasi-federal with a strong centre and weak states, has grown increasingly federal since the late 1990s as a result of political, economic, and social changes.\n\nExecutive:-The President of India is the ceremonial head of state, who is elected indirectly for a five-year term by an electoral college comprising members of national and state legislatures. The Prime Minister of India is the head of government and exercises most executive power.\nAppointed by the president, the prime minister is by convention supported by the party or political alliance having a majority of seats in the lower house of parliament. \n\nJudiciary:- India has a three-tier unitary independent judiciary comprising the supreme court, headed by the Chief Justice of India, 25 high courts, and a large number of trial courts. The supreme court has original jurisdiction over cases involving fundamental rights and over disputes between states and the centre and has appellate jurisdiction over the high courts. \nIt has the power to both strike down union or state laws which contravene the constitution, and invalidate any government action it deems unconstitutional.\n\nLegislature:- The President of India is the ceremonial head of state, who is elected indirectly for a five-year term by an electoral college comprising members of national and state legislatures. The Prime Minister of India is the head of government and exercises most executive power. Appointed by the president, the prime minister is by convention supported by the party or political alliance having a majority of seats in the lower house of parliament. \n\nThe executive of the Indian government consists of the president, the vice president, and the Union Council of Ministers—with the cabinet being its executive committee—headed by the prime minister. Any minister holding a portfolio must be a member of one of the houses of parliament. \nIn the Indian parliamentary system, the executive is subordinate to the legislature; the prime minister and their council are directly responsible to the lower house of the parliament. Civil servants act as permanent executives and all decisions of the executive are implemented by them."
         }
     }
-
-  
-   
- 
 ]
