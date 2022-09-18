@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "img": "https://om-chauhan.github.io/JSONResponse/images/history.jpg",
+        "img": "https://om-chauhan.github.io/mera-desh-public/images/history.jpg",
         "Title": "History",
         "Source": "https://en.wikipedia.org/wiki/India",
         "img_credit": "Photo by Pixabay from Pexels",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "img": "https://om-chauhan.github.io/JSONResponse/images/culture.jpg",
+        "img": "https://om-chauhan.github.io/mera-desh-public/images/culture.jpg",
         "Title": "Culture",
         "Source": "https://en.wikipedia.org/wiki/India",
         "img_credit": "Photo by Manjeet Singh Yadav from Pexels",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "img": "https://om-chauhan.github.io/JSONResponse/images/government.jpg",
+        "img": "https://om-chauhan.github.io/mera-desh-public/images/government.jpg",
         "Title": "Government",
         "Source": "https://en.wikipedia.org/wiki/India",
         "img_credit": "Photo by Alok Uniyal from Pexels",
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "img": "https://om-chauhan.github.io/JSONResponse/images/geography.jpg",
+        "img": "https://om-chauhan.github.io/mera-desh-public/images/geography.jpg",
         "Title": "Geography",
         "Source": "https://en.wikipedia.org/wiki/India",
         "img_credit": "Photo by Artem Beliaikin from Pexels",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "img": "https://om-chauhan.github.io/JSONResponse/images/economy.jpg",
+        "img": "https://om-chauhan.github.io/mera-desh-public/images/economy.jpg",
         "Title": "Economy",
         "Source": "https://en.wikipedia.org/wiki/India",
         "img_credit": "Photo by Habib from Pexels",
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "img": "https://om-chauhan.github.io/JSONResponse/images/biodiversity.jpg",
+        "img": "https://om-chauhan.github.io/mera-desh-public/images/biodiversity.jpg",
         "Title": "Biodiversity",
         "Source": "https://en.wikipedia.org/wiki/India",
         "img_credit": "Photo by Quentin Pelletier from Pexels",
@@ -49,7 +49,7 @@
     },
     {
         "id": 7,
-        "img": "https://om-chauhan.github.io/JSONResponse/images/politics.jpg",
+        "img": "https://om-chauhan.github.io/mera-desh-public/images/politics.jpg",
         "Title": "Politics",
         "Source": "https://en.wikipedia.org/wiki/India",
         "img_credit": "Photo by Element5 Digital from Pexels",

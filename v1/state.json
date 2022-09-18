@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 1,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/andhra-pradesh.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/andhra-pradesh.jpg",
       "Tree": "Neem",
       "Song": "Maa Telugu Thalliki",
       "Fish": "Mudfish",
@@ -35,7 +35,7 @@
     },
     {
       "id": 2,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/arunachal-pradesh.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/arunachal-pradesh.jpg",
       "Tree": "Hollong",
       "Song": "Satyameva Jayate",
       "Fish": "Golden Mahseer",
@@ -68,7 +68,7 @@
     },
     {
       "id": 3,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/assam.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/assam.jpg",
       "Tree": "Dipterocarpus retusus",
       "Song": "Not Avilable",
       "Fish": "Not Avilable",
@@ -101,7 +101,7 @@
     },
     {
       "id": 4,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/bihar.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/bihar.jpg",
       "Tree": "Ficus religiosa",
       "Song": "Mere Bharat Ke Kanth Haar",
       "Fish": "Not Avilable",
@@ -134,7 +134,7 @@
     },
     {
       "id": 5,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/chattisgarh.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/chattisgarh.jpg",
       "Tree": "Shorea robusta",
       "Song": "Arpa Pairi Ke Dhar",
       "Fish": "Not Avilable",
@@ -167,7 +167,7 @@
     },
     {
       "id": 6,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/goa.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/goa.jpg",
       "Tree": "Coconut palm",
       "Song": "Not Avilable",
       "Fish": "Grey mullet/Shevtto",
@@ -200,7 +200,7 @@
     },
     {
       "id": 7,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/gujarat.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/gujarat.jpg",
       "Tree": "Banyan",
       "Song": "Jai Jai Garavi Gujarat",
       "Fish": "Not Avilable",
@@ -233,7 +233,7 @@
     },
     {
       "id": 8,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/haryana.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/haryana.jpg",
       "Tree": "Peepal",
       "Song": "Not Avilable",
       "Fish": "Not Avilable",
@@ -266,7 +266,7 @@
     },
     {
       "id": 9,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/himachal-pradesh.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/himachal-pradesh.jpg",
       "Tree": "Cedrus deodara",
       "Song": "Not Avilable",
       "Fish": "Not Avilable",
@@ -299,7 +299,7 @@
     },
     {
       "id": 10,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/jharkhand.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/jharkhand.jpg",
       "Tree": "Shorea robusta",
       "Song": "Not Avilable",
       "Fish": "Not Avilable",
@@ -332,7 +332,7 @@
     },
     {
       "id": 11,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/karnataka.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/karnataka.jpg",
       "Tree": "Santalum album",
       "Song": "Jaya Bharata Jananiya Tanujate",
       "Fish": "Not Avilable",
@@ -365,7 +365,7 @@
     },
     {
       "id": 12,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/kerala.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/kerala.jpg",
       "Tree": "Coconut tree",
       "Song": "Not Avilable",
       "Fish": "Green chromide",
@@ -398,7 +398,7 @@
     },
     {
       "id": 13,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/madhya-pradesh.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/madhya-pradesh.jpg",
       "Tree": "Banyan Tree",
       "Song": "Mera Madhya Pradesh",
       "Fish": "Mahseer",
@@ -431,7 +431,7 @@
     },
     {
       "id": 14,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/maharashtra.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/maharashtra.jpg",
       "Tree": "Mango Tree",
       "Song": "Jai Jai Maharashtra Maza",
       "Fish": "Not Avilable",
@@ -464,7 +464,7 @@
     },
     {
       "id": 15,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/manipur.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/manipur.jpg",
       "Tree": "Uningthou",
       "Song": "Sana Leibak Manipur",
       "Fish": "Pengba",
@@ -497,7 +497,7 @@
     },
     {
       "id": 16,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/meghalaya.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/meghalaya.jpg",
       "Tree": "Gamhar",
       "Song": "Not Avilable",
       "Fish": "Not Avilable",
@@ -530,7 +530,7 @@
     },
     {
       "id": 17,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/mizoram.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/mizoram.jpg",
       "Tree": "Indian rose chestnut",
       "Song": "Not Avilable",
       "Fish": "Not Avilable",
@@ -563,7 +563,7 @@
     },
     {
       "id": 18,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/nagaland.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/nagaland.jpg",
       "Tree": "Alder",
       "Song": "Not Avilable",
       "Fish": "Chocolate mahseer",
@@ -596,7 +596,7 @@
     },
     {
       "id": 19,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/odisha.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/odisha.jpg",
       "Tree": "Sacred Fig",
       "Song": "Bande Utkala Janani",
       "Fish": "Mahanadi mahseer",
@@ -629,7 +629,7 @@
     },
     {
       "id": 20,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/punjab.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/punjab.jpg",
       "Tree": "Sheesham",
       "Song": "Not Avilable",
       "Fish": "Not Avilable",
@@ -662,7 +662,7 @@
     },
     {
       "id": 21,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/rajasthan.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/rajasthan.jpg",
       "Tree": "Khejri",
       "Song": "Not Avilable",
       "Fish": "Not Avilable",
@@ -695,7 +695,7 @@
     },
     {
       "id": 22,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/sikkim.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/sikkim.jpg",
       "Tree": "Rhododendron",
       "Song": "Not Avilable",
       "Fish": "Not Avilable",
@@ -728,7 +728,7 @@
     },
     {
       "id": 23,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/tamill-nadu.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/tamill-nadu.jpg",
       "Tree": "Palm Tree",
       "Song": "Invocation to Goddess Tamil",
       "Fish": "Not Avilable",
@@ -761,7 +761,7 @@
     },
     {
       "id": 24,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/telangan.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/telangan.jpg",
       "Tree": "Prosopis cineraria",
       "Song": "Jaya Jaya He Telangana",
       "Fish": "Not Avilable",
@@ -794,7 +794,7 @@
     },
     {
       "id": 25,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/tripura.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/tripura.jpg",
       "Tree": "Agarwood",
       "Song": "Not Avilable",
       "Fish": "Butter catfish (Pabda)",
@@ -827,7 +827,7 @@
     },
     {
       "id": 26,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/uttarakhand.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/uttarakhand.jpg",
       "Tree": "Burans",
       "Song": "Not Avilable",
       "Fish": "Not Avilable",
@@ -860,7 +860,7 @@
     },
     {
       "id": 27,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/uttar-pradesh.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/uttar-pradesh.jpg",
       "Tree": "Ashoka",
       "Song": "Not Avilable",
       "Fish": "Not Avilable",
@@ -893,7 +893,7 @@
     },
     {
       "id": 28,
-      "img": "https://om-chauhan.github.io/JSONResponse/images/state/west-bengal.jpg",
+      "img": "https://om-chauhan.github.io/mera-desh-public/images/state/west-bengal.jpg",
       "Tree": "Chatim tree",
       "Song": "Not Avilable",
       "Fish": "Ilish",
